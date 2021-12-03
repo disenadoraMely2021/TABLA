@@ -1,0 +1,20 @@
+
+/* Hoja de estilo hoja1.css*/
+th {
+	color: white;
+	font-size: 30px;
+}
+
+
+
+table {
+	width: 80%;
+	height: 300px;
+}
+
+td {
+	color: black;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
